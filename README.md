@@ -58,7 +58,7 @@ or
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mafia58/Auto-Filer-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mafia58/Auto-Filter-BotV1.0)
 
 ## Credits
 
