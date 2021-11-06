@@ -60,3 +60,7 @@ or
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mafia58/Auto-Filer-Bot)
 
+## Credits
+
+*Erichdaniken :- For Mango DB
+
