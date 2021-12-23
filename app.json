@@ -1,31 +1,31 @@
 {
     "name": "Auto Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/3075c1d69201094cfb6f8.jpg",
+    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "Telegram": "https://t.me/DFX_BOTS",
-    "repository": "https://github.com/Mafia58/Auto-Filter-BotV1.0",
-    "success_url": "https://t.me/DFX_BOTS",
+    "website": "https://TroJanzHEX.me",
+    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
+    "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
+            "description": "Your API Hash from my.telegram.org or @UseTGXBot",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your APP ID from my.telegram.org",
+            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
             "value": ""
         },
         "TG_USER_SESSION": {
-            "description": "A pyrogram user session string. Generate from https://replit.com/@akalankanime/String-Gen#main.py",
+            "description": "A pyrogram user session string. Generate from https://repl.it/@prgofficial/String-Gen",
             "value": ""
         },
         "AUTH_USERS": {
