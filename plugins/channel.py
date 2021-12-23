@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @akalankanime
+# @trojanzhex
 
 
 import re
@@ -38,7 +38,7 @@ async def addchannel(client: Bot, message: Message):
         await message.reply_text(
             "<i>Enter in correct format!\n\n<code>/add channelid</code>  or\n"
             "<code>/add @channelusername</code></i>"
-            "\n\nGet Channel id from @Get_Channel_User_Telegram_ID_Bot",
+            "\n\nGet Channel id from @ChannelidHEXbot",
         )
         return
     try:
