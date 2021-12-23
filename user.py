@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @akalankanime
+# @trojanzhex
 
 
 from pyrogram import (
@@ -36,3 +36,4 @@ class User(Client):
     async def stop(self, *args):
         await super().stop()
         self.LOGGER(__name__).info("Bot stopped. Bye.")
+ 
