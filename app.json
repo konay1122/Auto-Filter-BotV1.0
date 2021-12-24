@@ -1,16 +1,16 @@
 {
-    "name": "Auto Filter Bot",
-    "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "name": "AFB 1.5",
+    "description": "😄 နစ်ခုပေါင်းရောကျော်ဖေတာပေါ့😊.",
+    "logo": "https://telegra.ph/file/cf0c945839fed74e13d9f.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "RMC"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://t.me/joinchat/bJhearifqj05ZDhl",
+    "repository": "https://t.me/joinchat/HPXE9t6rejEzNDll",
+    "success_url": "https://telegram.dog/nas0055",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
@@ -25,7 +25,7 @@
             "value": ""
         },
         "TG_USER_SESSION": {
-            "description": "A pyrogram user session string. Generate from https://repl.it/@prgofficial/String-Gen",
+            "description": "A pyrogram user session string. Generate from https:google.com",
             "value": ""
         },
         "AUTH_USERS": {
