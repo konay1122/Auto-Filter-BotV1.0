@@ -17,9 +17,9 @@ For more click <i>help</i></b>"""
     HELP_MSG = """<b>ဘယ်လိုသုံးရင်ကောင်းမလဲ??</b>
 
 <i>
-* Add bot to your group with admin rights.
+* ဘယ်လိုသုံးရင်ကောင်းမလဲ🙄🙄
 
-* Add bot to channels which you want to link with <b>all admin rights</b>!
+* ဘယ်လိုသုံးရင်ကောင်းမလဲ</b>!
 </i>
 
 
