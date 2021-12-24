@@ -24,5 +24,5 @@ Telegram auto filter bot with mango DB support
 
 ## Credits
 
-*Erichdaniken :- For Mango DB
+*:D 🙄🙄
 
