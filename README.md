@@ -1,6 +1,6 @@
 # Auto-Filter-BotV1.5
 Telegram auto filter bot with mango DB support
-[NAS](https://telegra.ph/file/9da357f1ca8689e509545.jpg)](https://t.me/nas0055)
+[![Slam](https://telegra.ph/file/9da357f1ca8689e509545.jpg)](https://t.me/nas0055)
 
 
 #### ဒါကို ဒီလိုခေါ်ပါတယ်😁😁 :D
