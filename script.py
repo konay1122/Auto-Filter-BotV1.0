@@ -1,11 +1,11 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b> {}
 
-You can call this as an Auto Filter Bot if you like :D
+ဒါကို ဒီလိုခေါ်ပါတယ်😁😁
 
-This is Version 2 of Auto Filter Bot
+This is Version 1.5 of AFB
 
 Bot gives button link to files in connected channels on query !
 
@@ -14,7 +14,7 @@ No need to add filters for your files or movies from now on!
 For more click <i>help</i></b>"""
 
 
-    HELP_MSG = """<b>How to use the bot??</b>
+    HELP_MSG = """<b>ဘယ်လိုသုံးရင်ကောင်းမလဲ??</b>
 
 <i>
 * Add bot to your group with admin rights.
@@ -23,8 +23,8 @@ For more click <i>help</i></b>"""
 </i>
 
 
-<b>Bot Commands - Works in Group only</b>
-(You need to be a Auth User in order to use these commands)
+<b>Bot Commands - ဟဲဟဲ😊</b>
+(🙄🙄)
 
 * <code>/add channelid</code>  -  Links channel to your group.
 or
@@ -45,25 +45,25 @@ or
 <i>Note : Dont add command delete bots in group! Otherwise, delall command wont work</i>
 
 
-* <code>/filterstats</code>  -  Check connected channels and number of filters.
+* <code>/filterstats</code>  -  ဖြုတ်ထားတယ် 😂
 
 
 
-No need add each filter again!
-Bot will automatically search for your files and give links to that!
+တခြားဖေတာတွေမထည့်ရတော့ဘူး!
+သူက အလိုလျှောက်မှတ်ပီးသား (တစ်ခါတစ်လေ ဆန္ဒပြတာတော့ရှိတယ်နော်😂)!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @RMC</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : AFB 1.5</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @NAS
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language :</b> <code>myanmarunicode</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Tutorial Video :</b> <a href='https://www.youtube.com/watch?v=pk0uxJloXf4'>Video Link</a> 
 
 """
