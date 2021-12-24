@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @akalankanime
+# @nas0055
 
 
 from pyrogram import Client, filters
@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/DFX_BOTS")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/joinchat/bJhearifqj05ZDhl")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/DFX_BOTS")
+                            "⭕️ SUPPORT ⭕️", url="https://t.me/joinchat/5htiVRwJ-0c4MjE1")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/Mafia58/Auto-Filer-Bot")
+                            "SOURCE CODE", url="https://www.youtube.com/watch?v=pk0uxJloXf4")
                     ]
                 ]
             ),
